@@ -1,0 +1,12 @@
+# Duso Client – Freigaben für deine Freunde (die weitergegebene Datei)
+# ja = erlaubt, nein = ausgeschaltet. Ändern, dann unten auf „Commit changes“ klicken.
+# Nach ein paar Minuten gilt es bei allen. Dein eigener Duso Client darf immer alles.
+
+launcher = ja        # nein = der Duso Client ist ganz geschlossen
+spielen = ja         # nein = Minecraft lässt sich nicht starten
+mods = ja            # nein = keine Mods/Shader installieren, nur Vanilla starten
+skin-zeichnen = ja   # nein = die Skins-Seite (Skin zeichnen) ist zu
+capes = ja           # nein = die Capes-Seite ist zu
+cosmetics = ja       # nein = keine Cosmetics
+freunde = ja         # nein = Freunde und Chat sind zu
+creator-code = nein  # ja = man kann Creator Codes eintragen
