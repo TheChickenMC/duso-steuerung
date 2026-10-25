@@ -2,7 +2,7 @@
 # ja = erlaubt, nein = ausgeschaltet. Ändern, dann unten auf „Commit changes“ klicken.
 # Nach ein paar Minuten gilt es bei allen. Dein eigener Duso Client darf immer alles.
 
-launcher = nein        # nein = der Duso Client ist ganz geschlossen
+launcher = ja        # nein = der Duso Client ist ganz geschlossen
 spielen = ja         # nein = Minecraft lässt sich nicht starten
 mods = ja            # nein = keine Mods/Shader installieren, nur Vanilla starten
 skin-zeichnen = ja   # nein = die Skins-Seite (Skin zeichnen) ist zu
